@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing HD hell Picons for Hellas Sat"
+exit 0

@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-fushkrujs-golden-13
+Version: 1.0
+Description: fushkrujs Golden Picons Hotbird
+Section: picons
+Priority: optional
+Maintainer: xxx
+Architecture: sh4
+OE: fushkrujs Golden Picons Hotbird
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

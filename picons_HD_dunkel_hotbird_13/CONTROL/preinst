@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "installing HD Picons for Hotbird 13 ..."
+exit 0

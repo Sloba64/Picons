@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-hd-dunkel-hotbird-13
+Version: 1.0
+Description: 3d HD dunkel Picons for Hotbird
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: 3d HD dunkel Picons for Hotbird
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

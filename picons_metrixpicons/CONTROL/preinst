@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "installing Metrixpicons..."
+exit 0

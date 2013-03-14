@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing HD hell Picons for Astra 23.5E"
+exit 0

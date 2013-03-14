@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-hd-hell-eurobird-16e
+Version: 1.0
+Description: 3d HD Picons hell for Eurobird 16E
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: 3d HD Picons hell for Eurobird 16E
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

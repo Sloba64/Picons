@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-pph-transparent-hell-19
+Version: 1.0
+Description: Transparent HD hell Picons DACH for Astra 19.2
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Transparent HD hell Picons DACH for Astra 19.2
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

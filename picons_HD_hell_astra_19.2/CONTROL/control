@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-hd-hell-astra-192
+Version: 1.0
+Description: 3d HD hell Picons for Astra 19.2
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: 3d HD hell Picons for Astra 19.2
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

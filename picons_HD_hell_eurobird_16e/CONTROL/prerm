@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing HD hell Picons for Eurobird 16E"
+exit 0

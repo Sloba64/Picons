@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing Littleleos_black3d_picons"
+exit 0

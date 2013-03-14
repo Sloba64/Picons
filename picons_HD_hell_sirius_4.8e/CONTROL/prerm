@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing HD hell Picons for Sirius 4.8E"
+exit 0

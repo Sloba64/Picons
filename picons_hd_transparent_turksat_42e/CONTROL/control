@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-hd-transparent-turksat-42e
+Version: 1.0
+Description: HD Picons transparent for Turksat 42E
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: HD Picons transparent for Turksat 42E
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

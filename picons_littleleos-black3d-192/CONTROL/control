@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-littleleos-black3d-192
+Version: 1.0
+Description: Littleleos Black 3D Button Picons_Astra_19.2
+Section: picons
+Priority: optional
+Maintainer: xxx
+Architecture: sh4
+OE: Littleleos Black 3D Button Picons_Astra_19.2
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

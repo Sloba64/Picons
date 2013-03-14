@@ -1,0 +1,10 @@
+Package: enigma2-plugin-picons-hd-hell-kabel-deutschland
+Version: 1.0
+Description: 3d HD Picons hell for Kabel Deutschland
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: 3d HD Picons hell for Kabel Deutschland
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

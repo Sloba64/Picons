@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing fushkrujs Golden Picons Hotbird"
+exit 0

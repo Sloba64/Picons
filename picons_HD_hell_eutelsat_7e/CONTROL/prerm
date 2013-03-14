@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing HD hell Picons for Eutelsat 7E"
+exit 0

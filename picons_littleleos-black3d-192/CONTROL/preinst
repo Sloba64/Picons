@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "installing Littleleos_black3d_picons..."
+exit 0
