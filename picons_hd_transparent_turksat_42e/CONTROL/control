@@ -5,6 +5,5 @@ Section: picons
 Priority: optional
 Maintainer: XXX
 Architecture: sh4
-OE: HD Picons transparent for Turksat 42E
 Homepage: http://www.hdmedia-universe.com
 Source: http://www.hdmedia-universe.com
