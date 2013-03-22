@@ -1,0 +1,6 @@
+#!/bin/sh
+rm /usr/local/share/enigma2/picon_50x30
+echo "successfully removed"
+echo "syncing disk"
+sync
+exit 0
