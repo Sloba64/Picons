@@ -1,4 +1,5 @@
 #!/bin/sh
+ln -s /picon /usr/local/share/enigma2/picon
 echo "successfully installed"
 echo "syncing disk"
 sync
