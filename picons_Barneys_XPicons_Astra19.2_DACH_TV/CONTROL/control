@@ -1,9 +1,0 @@
-Package: enigma2-plugin-picons-astra-19-2-golden-nugget
-Version: 1.0
-Description: Golden Nugget Astra 19.2 Picons
-Section: picons
-Priority: optional
-Maintainer: xxx
-Architecture: sh4
-Homepage: http://www.hdmedia-universe.com
-Source: http://www.hdmedia-universe.com
