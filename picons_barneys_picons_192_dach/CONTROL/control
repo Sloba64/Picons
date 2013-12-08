@@ -1,0 +1,9 @@
+Package: enigma2-plugin-picons-barneys-picons-192-dach
+Version: 1.0
+Description: Barneys Picons 19.2 Dach
+Section: picons
+Priority: optional
+Maintainer: xxx
+Architecture: sh4
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com
