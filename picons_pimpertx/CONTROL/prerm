@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Pimpert XPicons"
+exit 0
