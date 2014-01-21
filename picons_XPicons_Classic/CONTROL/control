@@ -1,0 +1,9 @@
+Package: enigma2-plugin-picons-XPicons-Classic
+Version: 1.0
+Description: Classic XPicons for MetrixHD
+Section: picons
+Priority: optional
+Maintainer: xxx
+Architecture: sh4
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com
