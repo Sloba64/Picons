@@ -1,0 +1,9 @@
+Package: enigma2-plugin-picons-hungarian-upc-digi
+Version: 1.0
+Description: Picons upc,digi for Thor 1W°
+Section: picons
+Priority: optional
+Maintainer: XXX
+Architecture: all
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com
