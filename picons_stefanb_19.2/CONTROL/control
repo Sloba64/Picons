@@ -1,0 +1,9 @@
+Package: enigma2-plugin-picons-stefanb-19.2
+Version: 1.3
+Description: Stefanb Astra 19.2 Picons
+Section: picons
+Priority: optional
+Maintainer: xxx
+Architecture: all
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

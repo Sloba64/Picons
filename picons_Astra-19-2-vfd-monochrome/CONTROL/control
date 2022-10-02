@@ -1,0 +1,9 @@
+Package: enigma2-plugin-picons-astra-19-2-vfd-monochrome
+Version: 1.1
+Description: VFD Astra 19.2 Picons
+Section: picons
+Priority: optional
+Maintainer: zombie
+Architecture: all
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

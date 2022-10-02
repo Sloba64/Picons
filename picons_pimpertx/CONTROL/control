@@ -1,0 +1,9 @@
+Package: enigma2-plugin-picons-pimpertx
+Version: 1.0
+Description: Pimpert XPicons
+Section: picons
+Priority: optional
+Maintainer: xxx
+Architecture: all
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

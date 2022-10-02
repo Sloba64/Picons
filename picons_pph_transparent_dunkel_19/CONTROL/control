@@ -1,9 +1,9 @@
 Package: enigma2-plugin-picons-pph-transparent-dunkel-19
-Version: 1.0
+Version: 20140108
 Description: Transparent HD dunkel Picons DACH for Astra 19.2
 Section: picons
 Priority: optional
 Maintainer: XXX
-Architecture: sh4
+Architecture: all
 Homepage: http://www.hdmedia-universe.com
 Source: http://www.hdmedia-universe.com

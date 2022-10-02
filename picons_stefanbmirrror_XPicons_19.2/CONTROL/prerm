@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing Stefanbmirror XPicons for Astra 19,2..."
+exit 0

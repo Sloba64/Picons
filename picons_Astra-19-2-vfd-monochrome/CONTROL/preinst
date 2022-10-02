@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "installing VFD Astra 19.2 Picons..."
+exit 0

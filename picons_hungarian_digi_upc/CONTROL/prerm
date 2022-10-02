@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing Hungarian Picons for Thor"
+exit 0
